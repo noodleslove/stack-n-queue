@@ -1,7 +1,7 @@
 package tests
 
 import (
-	. "fake.com/tutorial/stack"
+	. "github.com/noodleslove/stack_n_queue/pkg/stack"
 	"testing"
 )
 

@@ -1,7 +1,7 @@
 package stack
 
 import (
-	. "fake.com/tutorial/node"
+	. "github.com/noodleslove/stack_n_queue/pkg/node"
 )
 
 type Stack struct {
